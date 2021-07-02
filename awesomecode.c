@@ -2,6 +2,6 @@
 
 int main(void)
 {
-  dprintf(1, "Good job, my bro\n");
+  dprintf(1, "Good job, my dear\n");
   return(0);
 }
